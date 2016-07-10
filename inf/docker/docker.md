@@ -15,8 +15,12 @@ Docker
 
 * [Throttle per process IO](http://unix.stackexchange.com/questions/48138/how-to-throttle-per-process-i-o-to-a-max-limit)
 
-### Others
+### Tools
+
+* [Seagull: Friendly Web UI to manage and monitor docker](https://github.com/tobegit3hub/seagull)
+
+### News and Blogs
 
 * [Docker Weekly CN](http://weekly.dockerone.com/index)
-* [Mitchell repo](https://github.com/mitchellh?tab=repositories)
+
 
