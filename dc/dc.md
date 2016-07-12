@@ -15,5 +15,6 @@
 
 * [Quick Start](http://spark.apache.org/docs/latest/quick-start.html)
 * [Build Spark](https://spark.apache.org/docs/2.0.0-preview/building-spark.html)
+* [Setup Spark on Intellij IDEA](https://cwiki.apache.org/confluence/display/SPARK/Useful+Developer+Tools#UsefulDeveloperTools-IntelliJ)
 * [Build and run Spark](http://manuel.kiessling.net/2015/10/17/how-i-build-deploy-and-run-spark/)
 * [Building Apache Spark on your Local Machine](http://www.sparktutorials.net/building-apache-spark-on-your-local-machine)
