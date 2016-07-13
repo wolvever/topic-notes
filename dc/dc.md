@@ -20,3 +20,7 @@
 * [Spark Snapshot Repo](https://repository.apache.org/content/groups/snapshots/org/apache/spark/)
 * [Build and run Spark](http://manuel.kiessling.net/2015/10/17/how-i-build-deploy-and-run-spark/)
 * [Building Apache Spark on your Local Machine](http://www.sparktutorials.net/building-apache-spark-on-your-local-machine)
+
+### Spark documents
+
+* [Spark Summit 2016](https://spark-summit.org/2016/schedule/)
