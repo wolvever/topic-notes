@@ -15,6 +15,7 @@
 
 * [Quick Start](http://spark.apache.org/docs/latest/quick-start.html)
 * [Build Spark](https://spark.apache.org/docs/2.0.0-preview/building-spark.html)
+* [Build Spark with Scala 2.11](http://spark.apache.org/docs/latest/building-spark.html#building-for-scala-211)
 * [Setup Spark on Intellij IDEA](https://cwiki.apache.org/confluence/display/SPARK/Useful+Developer+Tools#UsefulDeveloperTools-IntelliJ)
 * [Spark Snapshot Repo](https://repository.apache.org/content/groups/snapshots/org/apache/spark/)
 * [Build and run Spark](http://manuel.kiessling.net/2015/10/17/how-i-build-deploy-and-run-spark/)
