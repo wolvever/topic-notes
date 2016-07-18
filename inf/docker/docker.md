@@ -7,6 +7,24 @@ Docker
 
 * [Docker repo](https://github.com/docker)
 
+#### Key Components
+
+* Docker Machine
+* Docker Composer
+* Docker Client
+* Docker Swarm
+* Docker Engine
+
+#### Key concepts
+
+* container
+	* storage driver
+		* read-write layer (guid id)
+		* read-only layers (hash id), image
+* life cycle
+	* read-write layer same with container
+	* data volumn 
+
 ### Swarm
 
 * [First Look at Docker SwarmKit](https://blog.replicated.com/2016/06/08/first-look-at-swarmkit/)
