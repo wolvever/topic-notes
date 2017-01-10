@@ -8,3 +8,8 @@
 ## Clock and timers
 
 * [Inside the Hotspot VM: Clocks, Timers and Scheduling Events](https://blogs.oracle.com/dholmes/entry/inside_the_hotspot_vm_clocks)
+
+
+## Benchmarking
+
+* [Nanotrusting the Nanotime](https://shipilev.net/blog/2014/nanotrusting-nanotime/)
